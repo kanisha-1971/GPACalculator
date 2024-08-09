@@ -62,6 +62,5 @@ The program uses the following grading scale:
     - After entering the details for each course, you will be asked if you want to add another course.
     - Enter 'Y' to add another course or 'N' to calculate your GPA and view the results.
 
-## Example Usage
 
 
